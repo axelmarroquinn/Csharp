@@ -1,0 +1,14 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_PerimetroPoligono\bin\Debug\net8.0\Tarea_PerimetroPoligono.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_PerimetroPoligono\bin\Debug\net8.0\Tarea_PerimetroPoligono.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_PerimetroPoligono\bin\Debug\net8.0\Tarea_PerimetroPoligono.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_PerimetroPoligono\bin\Debug\net8.0\Tarea_PerimetroPoligono.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_PerimetroPoligono\bin\Debug\net8.0\Tarea_PerimetroPoligono.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_PerimetroPoligono\obj\Debug\net8.0\Tarea_PerimetroPoligono.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_PerimetroPoligono\obj\Debug\net8.0\Tarea_PerimetroPoligono.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_PerimetroPoligono\obj\Debug\net8.0\Tarea_PerimetroPoligono.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_PerimetroPoligono\obj\Debug\net8.0\Tarea_PerimetroPoligono.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_PerimetroPoligono\obj\Debug\net8.0\Tarea_PerimetroPoligono.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_PerimetroPoligono\obj\Debug\net8.0\refint\Tarea_PerimetroPoligono.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_PerimetroPoligono\obj\Debug\net8.0\Tarea_PerimetroPoligono.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_PerimetroPoligono\obj\Debug\net8.0\Tarea_PerimetroPoligono.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_PerimetroPoligono\obj\Debug\net8.0\ref\Tarea_PerimetroPoligono.dll

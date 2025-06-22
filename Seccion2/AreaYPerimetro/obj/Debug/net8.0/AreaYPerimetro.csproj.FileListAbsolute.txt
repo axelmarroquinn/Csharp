@@ -1,0 +1,14 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\AreaYPerimetro\bin\Debug\net8.0\AreaYPerimetro.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\AreaYPerimetro\bin\Debug\net8.0\AreaYPerimetro.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\AreaYPerimetro\bin\Debug\net8.0\AreaYPerimetro.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\AreaYPerimetro\bin\Debug\net8.0\AreaYPerimetro.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\AreaYPerimetro\bin\Debug\net8.0\AreaYPerimetro.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\AreaYPerimetro\obj\Debug\net8.0\AreaYPerimetro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\AreaYPerimetro\obj\Debug\net8.0\AreaYPerimetro.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\AreaYPerimetro\obj\Debug\net8.0\AreaYPerimetro.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\AreaYPerimetro\obj\Debug\net8.0\AreaYPerimetro.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\AreaYPerimetro\obj\Debug\net8.0\AreaYPerimetro.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\AreaYPerimetro\obj\Debug\net8.0\refint\AreaYPerimetro.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\AreaYPerimetro\obj\Debug\net8.0\AreaYPerimetro.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\AreaYPerimetro\obj\Debug\net8.0\AreaYPerimetro.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\AreaYPerimetro\obj\Debug\net8.0\ref\AreaYPerimetro.dll

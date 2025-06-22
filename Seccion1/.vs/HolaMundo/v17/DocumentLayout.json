@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\HolaMundo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97800A16-3E9C-486F-85DC-C3C223F5C848}|..\\Tarea_MiNombre\\Tarea_MiNombre.csproj|c:\\users\\usuario\\programaci\u00F3n\\udemy\\c#\\tarea_minombre\\minombre.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1CDEDE1-5EA8-4948-B1B1-22C940A619D7}|HolaMundo\\HolaMundo.csproj|c:\\users\\usuario\\programaci\u00F3n\\udemy\\c#\\holamundo\\holamundo\\holamundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1CDEDE1-5EA8-4948-B1B1-22C940A619D7}|HolaMundo\\HolaMundo.csproj|solutionrelative:holamundo\\holamundo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MiNombre.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Tarea_MiNombre\\MiNombre.cs",
+              "RelativeDocumentMoniker": "..\\Tarea_MiNombre\\MiNombre.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Tarea_MiNombre\\MiNombre.cs",
+              "RelativeToolTip": "..\\Tarea_MiNombre\\MiNombre.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-28T04:28:12.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HolaMundo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\HolaMundo\\HolaMundo\\HolaMundo.cs",
+              "RelativeDocumentMoniker": "HolaMundo\\HolaMundo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\HolaMundo\\HolaMundo\\HolaMundo.cs",
+              "RelativeToolTip": "HolaMundo\\HolaMundo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T03:54:01.294Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

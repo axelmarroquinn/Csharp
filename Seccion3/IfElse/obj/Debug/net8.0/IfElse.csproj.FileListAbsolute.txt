@@ -1,0 +1,14 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfElse\bin\Debug\net8.0\IfElse.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfElse\bin\Debug\net8.0\IfElse.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfElse\bin\Debug\net8.0\IfElse.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfElse\bin\Debug\net8.0\IfElse.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfElse\bin\Debug\net8.0\IfElse.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfElse\obj\Debug\net8.0\IfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfElse\obj\Debug\net8.0\IfElse.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfElse\obj\Debug\net8.0\IfElse.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfElse\obj\Debug\net8.0\IfElse.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfElse\obj\Debug\net8.0\IfElse.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfElse\obj\Debug\net8.0\refint\IfElse.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfElse\obj\Debug\net8.0\IfElse.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfElse\obj\Debug\net8.0\IfElse.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfElse\obj\Debug\net8.0\ref\IfElse.dll

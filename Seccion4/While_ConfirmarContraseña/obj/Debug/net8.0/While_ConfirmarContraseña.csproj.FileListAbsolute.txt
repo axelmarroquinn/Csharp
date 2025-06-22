@@ -1,0 +1,14 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\While_ConfirmarContraseña\bin\Debug\net8.0\While_ConfirmarContraseña.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\While_ConfirmarContraseña\bin\Debug\net8.0\While_ConfirmarContraseña.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\While_ConfirmarContraseña\bin\Debug\net8.0\While_ConfirmarContraseña.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\While_ConfirmarContraseña\bin\Debug\net8.0\While_ConfirmarContraseña.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\While_ConfirmarContraseña\bin\Debug\net8.0\While_ConfirmarContraseña.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\While_ConfirmarContraseña\obj\Debug\net8.0\While_ConfirmarContraseña.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\While_ConfirmarContraseña\obj\Debug\net8.0\While_ConfirmarContraseña.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\While_ConfirmarContraseña\obj\Debug\net8.0\While_ConfirmarContraseña.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\While_ConfirmarContraseña\obj\Debug\net8.0\While_ConfirmarContraseña.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\While_ConfirmarContraseña\obj\Debug\net8.0\While_ConfirmarContraseña.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\While_ConfirmarContraseña\obj\Debug\net8.0\refint\While_ConfirmarContraseña.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\While_ConfirmarContraseña\obj\Debug\net8.0\While_ConfirmarContraseña.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\While_ConfirmarContraseña\obj\Debug\net8.0\While_ConfirmarContraseña.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\While_ConfirmarContraseña\obj\Debug\net8.0\ref\While_ConfirmarContraseña.dll

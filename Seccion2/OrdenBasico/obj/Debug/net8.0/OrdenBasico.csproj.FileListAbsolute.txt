@@ -1,0 +1,14 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\OrdenBasico\bin\Debug\net8.0\OrdenBasico.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\OrdenBasico\bin\Debug\net8.0\OrdenBasico.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\OrdenBasico\bin\Debug\net8.0\OrdenBasico.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\OrdenBasico\bin\Debug\net8.0\OrdenBasico.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\OrdenBasico\bin\Debug\net8.0\OrdenBasico.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\OrdenBasico\obj\Debug\net8.0\OrdenBasico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\OrdenBasico\obj\Debug\net8.0\OrdenBasico.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\OrdenBasico\obj\Debug\net8.0\OrdenBasico.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\OrdenBasico\obj\Debug\net8.0\OrdenBasico.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\OrdenBasico\obj\Debug\net8.0\OrdenBasico.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\OrdenBasico\obj\Debug\net8.0\refint\OrdenBasico.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\OrdenBasico\obj\Debug\net8.0\OrdenBasico.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\OrdenBasico\obj\Debug\net8.0\OrdenBasico.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\OrdenBasico\obj\Debug\net8.0\ref\OrdenBasico.dll

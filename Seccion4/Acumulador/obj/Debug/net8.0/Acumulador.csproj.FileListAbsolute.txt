@@ -1,0 +1,14 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Acumulador\bin\Debug\net8.0\Acumulador.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Acumulador\bin\Debug\net8.0\Acumulador.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Acumulador\bin\Debug\net8.0\Acumulador.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Acumulador\bin\Debug\net8.0\Acumulador.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Acumulador\bin\Debug\net8.0\Acumulador.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Acumulador\obj\Debug\net8.0\Acumulador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Acumulador\obj\Debug\net8.0\Acumulador.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Acumulador\obj\Debug\net8.0\Acumulador.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Acumulador\obj\Debug\net8.0\Acumulador.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Acumulador\obj\Debug\net8.0\Acumulador.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Acumulador\obj\Debug\net8.0\refint\Acumulador.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Acumulador\obj\Debug\net8.0\Acumulador.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Acumulador\obj\Debug\net8.0\Acumulador.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Acumulador\obj\Debug\net8.0\ref\Acumulador.dll

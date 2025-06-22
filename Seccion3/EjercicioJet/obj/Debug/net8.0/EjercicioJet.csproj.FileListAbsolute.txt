@@ -1,0 +1,14 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\EjercicioJet\bin\Debug\net8.0\EjercicioJet.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\EjercicioJet\bin\Debug\net8.0\EjercicioJet.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\EjercicioJet\bin\Debug\net8.0\EjercicioJet.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\EjercicioJet\bin\Debug\net8.0\EjercicioJet.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\EjercicioJet\bin\Debug\net8.0\EjercicioJet.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\EjercicioJet\obj\Debug\net8.0\EjercicioJet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\EjercicioJet\obj\Debug\net8.0\EjercicioJet.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\EjercicioJet\obj\Debug\net8.0\EjercicioJet.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\EjercicioJet\obj\Debug\net8.0\EjercicioJet.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\EjercicioJet\obj\Debug\net8.0\EjercicioJet.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\EjercicioJet\obj\Debug\net8.0\refint\EjercicioJet.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\EjercicioJet\obj\Debug\net8.0\EjercicioJet.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\EjercicioJet\obj\Debug\net8.0\EjercicioJet.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\EjercicioJet\obj\Debug\net8.0\ref\EjercicioJet.dll

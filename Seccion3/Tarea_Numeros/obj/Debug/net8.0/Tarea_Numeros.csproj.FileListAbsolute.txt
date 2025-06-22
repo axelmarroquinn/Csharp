@@ -1,0 +1,14 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Numeros\bin\Debug\net8.0\Tarea_Numeros.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Numeros\bin\Debug\net8.0\Tarea_Numeros.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Numeros\bin\Debug\net8.0\Tarea_Numeros.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Numeros\bin\Debug\net8.0\Tarea_Numeros.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Numeros\bin\Debug\net8.0\Tarea_Numeros.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Numeros\obj\Debug\net8.0\Tarea_Numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Numeros\obj\Debug\net8.0\Tarea_Numeros.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Numeros\obj\Debug\net8.0\Tarea_Numeros.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Numeros\obj\Debug\net8.0\Tarea_Numeros.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Numeros\obj\Debug\net8.0\Tarea_Numeros.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Numeros\obj\Debug\net8.0\refint\Tarea_Numeros.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Numeros\obj\Debug\net8.0\Tarea_Numeros.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Numeros\obj\Debug\net8.0\Tarea_Numeros.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Numeros\obj\Debug\net8.0\ref\Tarea_Numeros.dll

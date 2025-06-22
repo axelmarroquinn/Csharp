@@ -1,0 +1,14 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\EjercicioCalificaciones\obj\Debug\net8.0\EjercicioCalificaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\EjercicioCalificaciones\obj\Debug\net8.0\EjercicioCalificaciones.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\EjercicioCalificaciones\obj\Debug\net8.0\EjercicioCalificaciones.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\EjercicioCalificaciones\obj\Debug\net8.0\EjercicioCalificaciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\EjercicioCalificaciones\bin\Debug\net8.0\EjercicioCalificaciones.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\EjercicioCalificaciones\bin\Debug\net8.0\EjercicioCalificaciones.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\EjercicioCalificaciones\bin\Debug\net8.0\EjercicioCalificaciones.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\EjercicioCalificaciones\bin\Debug\net8.0\EjercicioCalificaciones.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\EjercicioCalificaciones\bin\Debug\net8.0\EjercicioCalificaciones.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\EjercicioCalificaciones\obj\Debug\net8.0\EjercicioCalificaciones.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\EjercicioCalificaciones\obj\Debug\net8.0\refint\EjercicioCalificaciones.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\EjercicioCalificaciones\obj\Debug\net8.0\EjercicioCalificaciones.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\EjercicioCalificaciones\obj\Debug\net8.0\EjercicioCalificaciones.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\EjercicioCalificaciones\obj\Debug\net8.0\ref\EjercicioCalificaciones.dll

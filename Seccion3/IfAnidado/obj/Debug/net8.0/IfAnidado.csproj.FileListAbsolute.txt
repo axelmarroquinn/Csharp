@@ -1,0 +1,14 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfAnidado\bin\Debug\net8.0\IfAnidado.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfAnidado\bin\Debug\net8.0\IfAnidado.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfAnidado\bin\Debug\net8.0\IfAnidado.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfAnidado\bin\Debug\net8.0\IfAnidado.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfAnidado\bin\Debug\net8.0\IfAnidado.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfAnidado\obj\Debug\net8.0\IfAnidado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfAnidado\obj\Debug\net8.0\IfAnidado.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfAnidado\obj\Debug\net8.0\IfAnidado.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfAnidado\obj\Debug\net8.0\IfAnidado.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfAnidado\obj\Debug\net8.0\IfAnidado.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfAnidado\obj\Debug\net8.0\refint\IfAnidado.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfAnidado\obj\Debug\net8.0\IfAnidado.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfAnidado\obj\Debug\net8.0\IfAnidado.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\IfAnidado\obj\Debug\net8.0\ref\IfAnidado.dll

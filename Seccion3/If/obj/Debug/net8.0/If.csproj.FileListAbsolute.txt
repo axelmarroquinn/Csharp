@@ -1,0 +1,14 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\If\bin\Debug\net8.0\If.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\If\bin\Debug\net8.0\If.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\If\bin\Debug\net8.0\If.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\If\bin\Debug\net8.0\If.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\If\bin\Debug\net8.0\If.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\If\obj\Debug\net8.0\If.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\If\obj\Debug\net8.0\If.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\If\obj\Debug\net8.0\If.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\If\obj\Debug\net8.0\If.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\If\obj\Debug\net8.0\If.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\If\obj\Debug\net8.0\refint\If.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\If\obj\Debug\net8.0\If.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\If\obj\Debug\net8.0\If.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\If\obj\Debug\net8.0\ref\If.dll

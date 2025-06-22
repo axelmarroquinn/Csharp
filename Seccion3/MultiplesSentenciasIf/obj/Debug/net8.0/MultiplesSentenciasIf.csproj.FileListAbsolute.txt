@@ -1,0 +1,14 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\MultiplesSentenciasIf\bin\Debug\net8.0\MultiplesSentenciasIf.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\MultiplesSentenciasIf\bin\Debug\net8.0\MultiplesSentenciasIf.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\MultiplesSentenciasIf\bin\Debug\net8.0\MultiplesSentenciasIf.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\MultiplesSentenciasIf\bin\Debug\net8.0\MultiplesSentenciasIf.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\MultiplesSentenciasIf\bin\Debug\net8.0\MultiplesSentenciasIf.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\MultiplesSentenciasIf\obj\Debug\net8.0\MultiplesSentenciasIf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\MultiplesSentenciasIf\obj\Debug\net8.0\MultiplesSentenciasIf.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\MultiplesSentenciasIf\obj\Debug\net8.0\MultiplesSentenciasIf.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\MultiplesSentenciasIf\obj\Debug\net8.0\MultiplesSentenciasIf.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\MultiplesSentenciasIf\obj\Debug\net8.0\MultiplesSentenciasIf.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\MultiplesSentenciasIf\obj\Debug\net8.0\refint\MultiplesSentenciasIf.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\MultiplesSentenciasIf\obj\Debug\net8.0\MultiplesSentenciasIf.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\MultiplesSentenciasIf\obj\Debug\net8.0\MultiplesSentenciasIf.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\MultiplesSentenciasIf\obj\Debug\net8.0\ref\MultiplesSentenciasIf.dll

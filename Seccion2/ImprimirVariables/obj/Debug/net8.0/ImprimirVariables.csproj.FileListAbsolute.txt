@@ -1,0 +1,14 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\ImprimirVariables\bin\Debug\net8.0\ImprimirVariables.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\ImprimirVariables\bin\Debug\net8.0\ImprimirVariables.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\ImprimirVariables\bin\Debug\net8.0\ImprimirVariables.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\ImprimirVariables\bin\Debug\net8.0\ImprimirVariables.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\ImprimirVariables\bin\Debug\net8.0\ImprimirVariables.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\ImprimirVariables\obj\Debug\net8.0\ImprimirVariables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\ImprimirVariables\obj\Debug\net8.0\ImprimirVariables.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\ImprimirVariables\obj\Debug\net8.0\ImprimirVariables.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\ImprimirVariables\obj\Debug\net8.0\ImprimirVariables.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\ImprimirVariables\obj\Debug\net8.0\ImprimirVariables.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\ImprimirVariables\obj\Debug\net8.0\refint\ImprimirVariables.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\ImprimirVariables\obj\Debug\net8.0\ImprimirVariables.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\ImprimirVariables\obj\Debug\net8.0\ImprimirVariables.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\ImprimirVariables\obj\Debug\net8.0\ref\ImprimirVariables.dll

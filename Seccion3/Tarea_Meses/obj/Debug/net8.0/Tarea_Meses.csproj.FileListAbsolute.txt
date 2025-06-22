@@ -1,0 +1,14 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Meses\bin\Debug\net8.0\Tarea_Meses.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Meses\bin\Debug\net8.0\Tarea_Meses.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Meses\bin\Debug\net8.0\Tarea_Meses.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Meses\bin\Debug\net8.0\Tarea_Meses.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Meses\bin\Debug\net8.0\Tarea_Meses.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Meses\obj\Debug\net8.0\Tarea_Meses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Meses\obj\Debug\net8.0\Tarea_Meses.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Meses\obj\Debug\net8.0\Tarea_Meses.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Meses\obj\Debug\net8.0\Tarea_Meses.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Meses\obj\Debug\net8.0\Tarea_Meses.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Meses\obj\Debug\net8.0\refint\Tarea_Meses.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Meses\obj\Debug\net8.0\Tarea_Meses.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Meses\obj\Debug\net8.0\Tarea_Meses.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Meses\obj\Debug\net8.0\ref\Tarea_Meses.dll

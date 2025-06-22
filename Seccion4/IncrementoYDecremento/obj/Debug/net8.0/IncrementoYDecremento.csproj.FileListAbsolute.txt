@@ -1,0 +1,14 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\IncrementoYDecremento\bin\Debug\net8.0\IncrementoYDecremento.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\IncrementoYDecremento\bin\Debug\net8.0\IncrementoYDecremento.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\IncrementoYDecremento\bin\Debug\net8.0\IncrementoYDecremento.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\IncrementoYDecremento\bin\Debug\net8.0\IncrementoYDecremento.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\IncrementoYDecremento\bin\Debug\net8.0\IncrementoYDecremento.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\IncrementoYDecremento\obj\Debug\net8.0\IncrementoYDecremento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\IncrementoYDecremento\obj\Debug\net8.0\IncrementoYDecremento.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\IncrementoYDecremento\obj\Debug\net8.0\IncrementoYDecremento.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\IncrementoYDecremento\obj\Debug\net8.0\IncrementoYDecremento.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\IncrementoYDecremento\obj\Debug\net8.0\IncrementoYDecremento.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\IncrementoYDecremento\obj\Debug\net8.0\refint\IncrementoYDecremento.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\IncrementoYDecremento\obj\Debug\net8.0\IncrementoYDecremento.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\IncrementoYDecremento\obj\Debug\net8.0\IncrementoYDecremento.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\IncrementoYDecremento\obj\Debug\net8.0\ref\IncrementoYDecremento.dll

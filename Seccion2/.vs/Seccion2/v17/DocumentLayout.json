@@ -1,0 +1,174 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E3724A3B-1754-4341-9865-EBB0853D99A3}|Tarea_CentigradosAFahrenheit\\Tarea_CentigradosAFahrenheit.csproj|c:\\users\\usuario\\programaci\u00F3n\\udemy\\c#\\seccion2\\tarea_centigradosafahrenheit\\centigradosafahrenheit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E3724A3B-1754-4341-9865-EBB0853D99A3}|Tarea_CentigradosAFahrenheit\\Tarea_CentigradosAFahrenheit.csproj|solutionrelative:tarea_centigradosafahrenheit\\centigradosafahrenheit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D413B5B3-F1BC-4EEA-9782-53A279EF7EE6}|Tarea_PerimetroPoligono\\Tarea_PerimetroPoligono.csproj|c:\\users\\usuario\\programaci\u00F3n\\udemy\\c#\\seccion2\\tarea_perimetropoligono\\perimetropoligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D413B5B3-F1BC-4EEA-9782-53A279EF7EE6}|Tarea_PerimetroPoligono\\Tarea_PerimetroPoligono.csproj|solutionrelative:tarea_perimetropoligono\\perimetropoligono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16501CF5-0708-4F3B-B85F-35A53407E4AD}|AreaYPerimetro\\AreaYPerimetro.csproj|c:\\users\\usuario\\programaci\u00F3n\\udemy\\c#\\seccion2\\areayperimetro\\areayperimetro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16501CF5-0708-4F3B-B85F-35A53407E4AD}|AreaYPerimetro\\AreaYPerimetro.csproj|solutionrelative:areayperimetro\\areayperimetro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEDA0D81-6D08-4091-B190-408D5724274D}|ObtenerDatos\\ObtenerDatos.csproj|c:\\users\\usuario\\programaci\u00F3n\\udemy\\c#\\seccion2\\obtenerdatos\\obtenerdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EEDA0D81-6D08-4091-B190-408D5724274D}|ObtenerDatos\\ObtenerDatos.csproj|solutionrelative:obtenerdatos\\obtenerdatos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA87A717-D593-4A92-BE3E-050D4881C414}|OperadoresAritmeticos\\OperadoresAritmeticos.csproj|c:\\users\\usuario\\programaci\u00F3n\\udemy\\c#\\seccion2\\operadoresaritmeticos\\operadoresaritmeticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA87A717-D593-4A92-BE3E-050D4881C414}|OperadoresAritmeticos\\OperadoresAritmeticos.csproj|solutionrelative:operadoresaritmeticos\\operadoresaritmeticos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{843E1D0D-6569-494C-8872-63A1F1488BDD}|ImprimirVariables\\ImprimirVariables.csproj|c:\\users\\usuario\\programaci\u00F3n\\udemy\\c#\\seccion2\\imprimirvariables\\imprimirvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{843E1D0D-6569-494C-8872-63A1F1488BDD}|ImprimirVariables\\ImprimirVariables.csproj|solutionrelative:imprimirvariables\\imprimirvariables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{799C2891-131D-49F1-9E6B-294C469E0029}|Variables\\Variables.csproj|c:\\users\\usuario\\programaci\u00F3n\\udemy\\c#\\seccion2\\variables\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{799C2891-131D-49F1-9E6B-294C469E0029}|Variables\\Variables.csproj|solutionrelative:variables\\variables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{853B70A8-FFA5-4FDE-B164-94DFAA726414}|OrdenBasico\\OrdenBasico.csproj|c:\\users\\usuario\\programaci\u00F3n\\udemy\\c#\\seccion2\\ordenbasico\\ordenbasico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{853B70A8-FFA5-4FDE-B164-94DFAA726414}|OrdenBasico\\OrdenBasico.csproj|solutionrelative:ordenbasico\\ordenbasico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CentigradosAFahrenheit.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion2\\Tarea_CentigradosAFahrenheit\\CentigradosAFahrenheit.cs",
+              "RelativeDocumentMoniker": "Tarea_CentigradosAFahrenheit\\CentigradosAFahrenheit.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion2\\Tarea_CentigradosAFahrenheit\\CentigradosAFahrenheit.cs",
+              "RelativeToolTip": "Tarea_CentigradosAFahrenheit\\CentigradosAFahrenheit.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAowBIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:03:06.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PerimetroPoligono.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion2\\Tarea_PerimetroPoligono\\PerimetroPoligono.cs",
+              "RelativeDocumentMoniker": "Tarea_PerimetroPoligono\\PerimetroPoligono.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion2\\Tarea_PerimetroPoligono\\PerimetroPoligono.cs",
+              "RelativeToolTip": "Tarea_PerimetroPoligono\\PerimetroPoligono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T19:00:00.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AreaYPerimetro.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion2\\AreaYPerimetro\\AreaYPerimetro.cs",
+              "RelativeDocumentMoniker": "AreaYPerimetro\\AreaYPerimetro.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion2\\AreaYPerimetro\\AreaYPerimetro.cs",
+              "RelativeToolTip": "AreaYPerimetro\\AreaYPerimetro.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T18:36:40.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ObtenerDatos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion2\\ObtenerDatos\\ObtenerDatos.cs",
+              "RelativeDocumentMoniker": "ObtenerDatos\\ObtenerDatos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion2\\ObtenerDatos\\ObtenerDatos.cs",
+              "RelativeToolTip": "ObtenerDatos\\ObtenerDatos.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAowA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T06:10:11.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OperadoresAritmeticos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion2\\OperadoresAritmeticos\\OperadoresAritmeticos.cs",
+              "RelativeDocumentMoniker": "OperadoresAritmeticos\\OperadoresAritmeticos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion2\\OperadoresAritmeticos\\OperadoresAritmeticos.cs",
+              "RelativeToolTip": "OperadoresAritmeticos\\OperadoresAritmeticos.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:46:09.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdenBasico.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion2\\OrdenBasico\\OrdenBasico.cs",
+              "RelativeDocumentMoniker": "OrdenBasico\\OrdenBasico.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion2\\OrdenBasico\\OrdenBasico.cs",
+              "RelativeToolTip": "OrdenBasico\\OrdenBasico.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-30T04:20:09.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Variables.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion2\\Variables\\Variables.cs",
+              "RelativeDocumentMoniker": "Variables\\Variables.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion2\\Variables\\Variables.cs",
+              "RelativeToolTip": "Variables\\Variables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T13:47:34.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ImprimirVariables.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion2\\ImprimirVariables\\ImprimirVariables.cs",
+              "RelativeDocumentMoniker": "ImprimirVariables\\ImprimirVariables.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion2\\ImprimirVariables\\ImprimirVariables.cs",
+              "RelativeToolTip": "ImprimirVariables\\ImprimirVariables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-07T05:22:22.822Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

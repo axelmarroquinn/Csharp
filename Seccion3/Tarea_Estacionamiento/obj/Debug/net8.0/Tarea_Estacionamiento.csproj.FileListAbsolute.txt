@@ -1,0 +1,14 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Estacionamiento\bin\Debug\net8.0\Tarea_Estacionamiento.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Estacionamiento\bin\Debug\net8.0\Tarea_Estacionamiento.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Estacionamiento\bin\Debug\net8.0\Tarea_Estacionamiento.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Estacionamiento\bin\Debug\net8.0\Tarea_Estacionamiento.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Estacionamiento\bin\Debug\net8.0\Tarea_Estacionamiento.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Estacionamiento\obj\Debug\net8.0\Tarea_Estacionamiento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Estacionamiento\obj\Debug\net8.0\Tarea_Estacionamiento.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Estacionamiento\obj\Debug\net8.0\Tarea_Estacionamiento.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Estacionamiento\obj\Debug\net8.0\Tarea_Estacionamiento.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Estacionamiento\obj\Debug\net8.0\Tarea_Estacionamiento.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Estacionamiento\obj\Debug\net8.0\refint\Tarea_Estacionamiento.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Estacionamiento\obj\Debug\net8.0\Tarea_Estacionamiento.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Estacionamiento\obj\Debug\net8.0\Tarea_Estacionamiento.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\Tarea_Estacionamiento\obj\Debug\net8.0\ref\Tarea_Estacionamiento.dll

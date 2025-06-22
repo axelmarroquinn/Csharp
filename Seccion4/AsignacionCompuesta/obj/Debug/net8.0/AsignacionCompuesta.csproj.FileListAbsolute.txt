@@ -1,0 +1,14 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\AsignacionCompuesta\bin\Debug\net8.0\AsignacionCompuesta.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\AsignacionCompuesta\bin\Debug\net8.0\AsignacionCompuesta.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\AsignacionCompuesta\bin\Debug\net8.0\AsignacionCompuesta.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\AsignacionCompuesta\bin\Debug\net8.0\AsignacionCompuesta.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\AsignacionCompuesta\bin\Debug\net8.0\AsignacionCompuesta.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\AsignacionCompuesta\obj\Debug\net8.0\AsignacionCompuesta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\AsignacionCompuesta\obj\Debug\net8.0\AsignacionCompuesta.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\AsignacionCompuesta\obj\Debug\net8.0\AsignacionCompuesta.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\AsignacionCompuesta\obj\Debug\net8.0\AsignacionCompuesta.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\AsignacionCompuesta\obj\Debug\net8.0\AsignacionCompuesta.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\AsignacionCompuesta\obj\Debug\net8.0\refint\AsignacionCompuesta.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\AsignacionCompuesta\obj\Debug\net8.0\AsignacionCompuesta.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\AsignacionCompuesta\obj\Debug\net8.0\AsignacionCompuesta.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\AsignacionCompuesta\obj\Debug\net8.0\ref\AsignacionCompuesta.dll

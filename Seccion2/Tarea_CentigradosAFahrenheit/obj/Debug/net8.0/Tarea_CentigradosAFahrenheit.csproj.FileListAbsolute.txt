@@ -1,0 +1,14 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_CentigradosAFahrenheit\bin\Debug\net8.0\Tarea_CentigradosAFahrenheit.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_CentigradosAFahrenheit\bin\Debug\net8.0\Tarea_CentigradosAFahrenheit.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_CentigradosAFahrenheit\bin\Debug\net8.0\Tarea_CentigradosAFahrenheit.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_CentigradosAFahrenheit\bin\Debug\net8.0\Tarea_CentigradosAFahrenheit.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_CentigradosAFahrenheit\bin\Debug\net8.0\Tarea_CentigradosAFahrenheit.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_CentigradosAFahrenheit\obj\Debug\net8.0\Tarea_CentigradosAFahrenheit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_CentigradosAFahrenheit\obj\Debug\net8.0\Tarea_CentigradosAFahrenheit.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_CentigradosAFahrenheit\obj\Debug\net8.0\Tarea_CentigradosAFahrenheit.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_CentigradosAFahrenheit\obj\Debug\net8.0\Tarea_CentigradosAFahrenheit.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_CentigradosAFahrenheit\obj\Debug\net8.0\Tarea_CentigradosAFahrenheit.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_CentigradosAFahrenheit\obj\Debug\net8.0\refint\Tarea_CentigradosAFahrenheit.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_CentigradosAFahrenheit\obj\Debug\net8.0\Tarea_CentigradosAFahrenheit.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_CentigradosAFahrenheit\obj\Debug\net8.0\Tarea_CentigradosAFahrenheit.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion2\Tarea_CentigradosAFahrenheit\obj\Debug\net8.0\ref\Tarea_CentigradosAFahrenheit.dll

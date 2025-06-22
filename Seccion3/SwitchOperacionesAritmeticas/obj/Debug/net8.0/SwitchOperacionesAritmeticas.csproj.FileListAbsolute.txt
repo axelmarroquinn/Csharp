@@ -1,0 +1,14 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\SwitchOperacionesAritmeticas\bin\Debug\net8.0\SwitchOperacionesAritmeticas.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\SwitchOperacionesAritmeticas\bin\Debug\net8.0\SwitchOperacionesAritmeticas.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\SwitchOperacionesAritmeticas\bin\Debug\net8.0\SwitchOperacionesAritmeticas.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\SwitchOperacionesAritmeticas\bin\Debug\net8.0\SwitchOperacionesAritmeticas.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\SwitchOperacionesAritmeticas\bin\Debug\net8.0\SwitchOperacionesAritmeticas.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\SwitchOperacionesAritmeticas\obj\Debug\net8.0\SwitchOperacionesAritmeticas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\SwitchOperacionesAritmeticas\obj\Debug\net8.0\SwitchOperacionesAritmeticas.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\SwitchOperacionesAritmeticas\obj\Debug\net8.0\SwitchOperacionesAritmeticas.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\SwitchOperacionesAritmeticas\obj\Debug\net8.0\SwitchOperacionesAritmeticas.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\SwitchOperacionesAritmeticas\obj\Debug\net8.0\SwitchOperacionesAritmeticas.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\SwitchOperacionesAritmeticas\obj\Debug\net8.0\refint\SwitchOperacionesAritmeticas.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\SwitchOperacionesAritmeticas\obj\Debug\net8.0\SwitchOperacionesAritmeticas.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\SwitchOperacionesAritmeticas\obj\Debug\net8.0\SwitchOperacionesAritmeticas.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\SwitchOperacionesAritmeticas\obj\Debug\net8.0\ref\SwitchOperacionesAritmeticas.dll

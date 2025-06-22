@@ -1,0 +1,14 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\InstruccionSwitch\bin\Debug\net8.0\InstruccionSwitch.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\InstruccionSwitch\bin\Debug\net8.0\InstruccionSwitch.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\InstruccionSwitch\bin\Debug\net8.0\InstruccionSwitch.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\InstruccionSwitch\bin\Debug\net8.0\InstruccionSwitch.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\InstruccionSwitch\bin\Debug\net8.0\InstruccionSwitch.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\InstruccionSwitch\obj\Debug\net8.0\InstruccionSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\InstruccionSwitch\obj\Debug\net8.0\InstruccionSwitch.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\InstruccionSwitch\obj\Debug\net8.0\InstruccionSwitch.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\InstruccionSwitch\obj\Debug\net8.0\InstruccionSwitch.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\InstruccionSwitch\obj\Debug\net8.0\InstruccionSwitch.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\InstruccionSwitch\obj\Debug\net8.0\refint\InstruccionSwitch.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\InstruccionSwitch\obj\Debug\net8.0\InstruccionSwitch.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\InstruccionSwitch\obj\Debug\net8.0\InstruccionSwitch.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion3\InstruccionSwitch\obj\Debug\net8.0\ref\InstruccionSwitch.dll
