@@ -1,0 +1,15 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\InstruccionAnidada\bin\Debug\net8.0\InstruccionAnidada.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\InstruccionAnidada\bin\Debug\net8.0\InstruccionAnidada.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\InstruccionAnidada\bin\Debug\net8.0\InstruccionAnidada.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\InstruccionAnidada\bin\Debug\net8.0\InstruccionAnidada.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\InstruccionAnidada\bin\Debug\net8.0\InstruccionAnidada.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\InstruccionAnidada\obj\Debug\net8.0\InstruccionAnidada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\InstruccionAnidada\obj\Debug\net8.0\InstruccionAnidada.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\InstruccionAnidada\obj\Debug\net8.0\InstruccionAnidada.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\InstruccionAnidada\obj\Debug\net8.0\InstruccionAnidada.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\InstruccionAnidada\obj\Debug\net8.0\InstruccionAnidada.sourcelink.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\InstruccionAnidada\obj\Debug\net8.0\InstruccionAnidada.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\InstruccionAnidada\obj\Debug\net8.0\refint\InstruccionAnidada.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\InstruccionAnidada\obj\Debug\net8.0\InstruccionAnidada.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\InstruccionAnidada\obj\Debug\net8.0\InstruccionAnidada.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\InstruccionAnidada\obj\Debug\net8.0\ref\InstruccionAnidada.dll
