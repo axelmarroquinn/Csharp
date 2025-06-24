@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6EAFA64C-542D-40BC-9CA1-F43E4E1E0470}|Seccion4\\InstruccionAnidada\\InstruccionAnidada.csproj|c:\\users\\usuario\\programaci\u00F3n\\udemy\\c#\\seccion4\\instruccionanidada\\instruccionesanidadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EAFA64C-542D-40BC-9CA1-F43E4E1E0470}|Seccion4\\InstruccionAnidada\\InstruccionAnidada.csproj|solutionrelative:seccion4\\instruccionanidada\\instruccionesanidadas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{555CBF4F-6B99-4669-A5CE-6E4BFCF1ADE2}|Seccion4\\Tarea_PrimosEntre1y100\\Tarea_PrimosEntre1y100.csproj|c:\\users\\usuario\\programaci\u00F3n\\udemy\\c#\\seccion4\\tarea_primosentre1y100\\numerosprimos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{555CBF4F-6B99-4669-A5CE-6E4BFCF1ADE2}|Seccion4\\Tarea_PrimosEntre1y100\\Tarea_PrimosEntre1y100.csproj|solutionrelative:seccion4\\tarea_primosentre1y100\\numerosprimos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDE9A507-AC0A-4F62-9D81-228071A4F35A}|Seccion4\\Tarea_PotenciaDeExponente\\Tarea_PotenciaDeExponente.csproj|c:\\users\\usuario\\programaci\u00F3n\\udemy\\c#\\seccion4\\tarea_potenciadeexponente\\potenciadeexponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDE9A507-AC0A-4F62-9D81-228071A4F35A}|Seccion4\\Tarea_PotenciaDeExponente\\Tarea_PotenciaDeExponente.csproj|solutionrelative:seccion4\\tarea_potenciadeexponente\\potenciadeexponente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +31,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "InstruccionesAnidadas.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion4\\InstruccionAnidada\\InstruccionesAnidadas.cs",
-              "RelativeDocumentMoniker": "Seccion4\\InstruccionAnidada\\InstruccionesAnidadas.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion4\\InstruccionAnidada\\InstruccionesAnidadas.cs",
-              "RelativeToolTip": "Seccion4\\InstruccionAnidada\\InstruccionesAnidadas.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAowBMAAAAdAAAAAAAAAA==",
+              "Title": "NumerosPrimos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion4\\Tarea_PrimosEntre1y100\\NumerosPrimos.cs",
+              "RelativeDocumentMoniker": "Seccion4\\Tarea_PrimosEntre1y100\\NumerosPrimos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion4\\Tarea_PrimosEntre1y100\\NumerosPrimos.cs",
+              "RelativeToolTip": "Seccion4\\Tarea_PrimosEntre1y100\\NumerosPrimos.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAYwAkAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-23T06:29:13.942Z",
+              "WhenOpened": "2025-06-24T18:05:26.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PotenciaDeExponente.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion4\\Tarea_PotenciaDeExponente\\PotenciaDeExponente.cs",
+              "RelativeDocumentMoniker": "Seccion4\\Tarea_PotenciaDeExponente\\PotenciaDeExponente.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion4\\Tarea_PotenciaDeExponente\\PotenciaDeExponente.cs",
+              "RelativeToolTip": "Seccion4\\Tarea_PotenciaDeExponente\\PotenciaDeExponente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-24T17:59:03.966Z",
               "EditorCaption": ""
             }
           ]

@@ -1,0 +1,15 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PrimosEntre1y100\bin\Debug\net8.0\Tarea_PrimosEntre1y100.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PrimosEntre1y100\bin\Debug\net8.0\Tarea_PrimosEntre1y100.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PrimosEntre1y100\bin\Debug\net8.0\Tarea_PrimosEntre1y100.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PrimosEntre1y100\bin\Debug\net8.0\Tarea_PrimosEntre1y100.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PrimosEntre1y100\bin\Debug\net8.0\Tarea_PrimosEntre1y100.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PrimosEntre1y100\obj\Debug\net8.0\Tarea_PrimosEntre1y100.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PrimosEntre1y100\obj\Debug\net8.0\Tarea_PrimosEntre1y100.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PrimosEntre1y100\obj\Debug\net8.0\Tarea_PrimosEntre1y100.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PrimosEntre1y100\obj\Debug\net8.0\Tarea_PrimosEntre1y100.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PrimosEntre1y100\obj\Debug\net8.0\Tarea_PrimosEntre1y100.sourcelink.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PrimosEntre1y100\obj\Debug\net8.0\Tarea_PrimosEntre1y100.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PrimosEntre1y100\obj\Debug\net8.0\refint\Tarea_PrimosEntre1y100.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PrimosEntre1y100\obj\Debug\net8.0\Tarea_PrimosEntre1y100.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PrimosEntre1y100\obj\Debug\net8.0\Tarea_PrimosEntre1y100.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PrimosEntre1y100\obj\Debug\net8.0\ref\Tarea_PrimosEntre1y100.dll

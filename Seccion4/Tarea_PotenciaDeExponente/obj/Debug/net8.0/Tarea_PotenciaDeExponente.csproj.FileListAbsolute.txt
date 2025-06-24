@@ -1,0 +1,15 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PotenciaDeExponente\bin\Debug\net8.0\Tarea_PotenciaDeExponente.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PotenciaDeExponente\bin\Debug\net8.0\Tarea_PotenciaDeExponente.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PotenciaDeExponente\bin\Debug\net8.0\Tarea_PotenciaDeExponente.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PotenciaDeExponente\bin\Debug\net8.0\Tarea_PotenciaDeExponente.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PotenciaDeExponente\bin\Debug\net8.0\Tarea_PotenciaDeExponente.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PotenciaDeExponente\obj\Debug\net8.0\Tarea_PotenciaDeExponente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PotenciaDeExponente\obj\Debug\net8.0\Tarea_PotenciaDeExponente.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PotenciaDeExponente\obj\Debug\net8.0\Tarea_PotenciaDeExponente.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PotenciaDeExponente\obj\Debug\net8.0\Tarea_PotenciaDeExponente.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PotenciaDeExponente\obj\Debug\net8.0\Tarea_PotenciaDeExponente.sourcelink.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PotenciaDeExponente\obj\Debug\net8.0\Tarea_PotenciaDeExponente.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PotenciaDeExponente\obj\Debug\net8.0\refint\Tarea_PotenciaDeExponente.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PotenciaDeExponente\obj\Debug\net8.0\Tarea_PotenciaDeExponente.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PotenciaDeExponente\obj\Debug\net8.0\Tarea_PotenciaDeExponente.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion4\Tarea_PotenciaDeExponente\obj\Debug\net8.0\ref\Tarea_PotenciaDeExponente.dll
