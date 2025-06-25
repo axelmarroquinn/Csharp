@@ -1,0 +1,15 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\IntroduccionMetodos\obj\Debug\net8.0\IntroduccionMetodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\IntroduccionMetodos\obj\Debug\net8.0\IntroduccionMetodos.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\IntroduccionMetodos\obj\Debug\net8.0\IntroduccionMetodos.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\IntroduccionMetodos\obj\Debug\net8.0\IntroduccionMetodos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\IntroduccionMetodos\obj\Debug\net8.0\IntroduccionMetodos.sourcelink.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\IntroduccionMetodos\bin\Debug\net8.0\IntroduccionMetodos.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\IntroduccionMetodos\bin\Debug\net8.0\IntroduccionMetodos.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\IntroduccionMetodos\bin\Debug\net8.0\IntroduccionMetodos.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\IntroduccionMetodos\bin\Debug\net8.0\IntroduccionMetodos.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\IntroduccionMetodos\bin\Debug\net8.0\IntroduccionMetodos.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\IntroduccionMetodos\obj\Debug\net8.0\IntroduccionMetodos.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\IntroduccionMetodos\obj\Debug\net8.0\refint\IntroduccionMetodos.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\IntroduccionMetodos\obj\Debug\net8.0\IntroduccionMetodos.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\IntroduccionMetodos\obj\Debug\net8.0\IntroduccionMetodos.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\IntroduccionMetodos\obj\Debug\net8.0\ref\IntroduccionMetodos.dll
