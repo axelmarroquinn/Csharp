@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Seccion5",
+    "\\Ejercicios",
+    "\\Ejercicios\\ContadorVocales",
     "\\Seccion5\\IntroduccionMetodos"
   ],
-  "SelectedNode": "\\Seccion5\\IntroduccionMetodos\\IntroduccionMetodos.csproj",
+  "SelectedNode": "\\Ejercicios\\ContadorVocales\\ContadorVocales.cs",
   "PreviewInSolutionExplorer": false
 }

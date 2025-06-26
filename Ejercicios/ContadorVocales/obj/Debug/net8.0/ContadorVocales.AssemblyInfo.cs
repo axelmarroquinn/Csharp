@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("IntroduccionMetodos")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("ContadorVocales")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+209f075078d75f2f964b3eb89fe39f90ffe1ce2d")]
-[assembly: System.Reflection.AssemblyProductAttribute("IntroduccionMetodos")]
-[assembly: System.Reflection.AssemblyTitleAttribute("IntroduccionMetodos")]
+[assembly: System.Reflection.AssemblyProductAttribute("ContadorVocales")]
+[assembly: System.Reflection.AssemblyTitleAttribute("ContadorVocales")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

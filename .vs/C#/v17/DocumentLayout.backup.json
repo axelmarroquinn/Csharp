@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17C2F2D7-EABE-4E7A-A0C8-9C3AAA2F0EA3}|Seccion5\\IntroduccionMetodos\\IntroduccionMetodos.csproj|c:\\users\\usuario\\programaci\u00F3n\\udemy\\c#\\seccion5\\introduccionmetodos\\introduccionmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17C2F2D7-EABE-4E7A-A0C8-9C3AAA2F0EA3}|Seccion5\\IntroduccionMetodos\\IntroduccionMetodos.csproj|solutionrelative:seccion5\\introduccionmetodos\\introduccionmetodos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6759B4D2-1CB9-4768-A9FB-7D577BBABF9D}|Ejercicios\\ContadorVocales\\ContadorVocales.csproj|c:\\users\\usuario\\programaci\u00F3n\\udemy\\c#\\ejercicios\\contadorvocales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6759B4D2-1CB9-4768-A9FB-7D577BBABF9D}|Ejercicios\\ContadorVocales\\ContadorVocales.csproj|solutionrelative:ejercicios\\contadorvocales\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IntroduccionMetodos.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion5\\IntroduccionMetodos\\IntroduccionMetodos.cs",
-              "RelativeDocumentMoniker": "Seccion5\\IntroduccionMetodos\\IntroduccionMetodos.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion5\\IntroduccionMetodos\\IntroduccionMetodos.cs",
-              "RelativeToolTip": "Seccion5\\IntroduccionMetodos\\IntroduccionMetodos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAwAwAAAANAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Ejercicios\\ContadorVocales\\Program.cs",
+              "RelativeDocumentMoniker": "Ejercicios\\ContadorVocales\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Ejercicios\\ContadorVocales\\Program.cs",
+              "RelativeToolTip": "Ejercicios\\ContadorVocales\\Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAIwCUAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-25T00:52:23.937Z",
+              "WhenOpened": "2025-06-26T05:39:03.144Z",
               "EditorCaption": ""
             }
           ]

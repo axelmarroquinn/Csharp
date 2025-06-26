@@ -1,0 +1,15 @@
+C:\Users\Usuario\Programación\Udemy\C#\Ejercicios\ContadorVocales\bin\Debug\net8.0\ContadorVocales.exe
+C:\Users\Usuario\Programación\Udemy\C#\Ejercicios\ContadorVocales\bin\Debug\net8.0\ContadorVocales.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Ejercicios\ContadorVocales\bin\Debug\net8.0\ContadorVocales.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Ejercicios\ContadorVocales\bin\Debug\net8.0\ContadorVocales.dll
+C:\Users\Usuario\Programación\Udemy\C#\Ejercicios\ContadorVocales\bin\Debug\net8.0\ContadorVocales.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Ejercicios\ContadorVocales\obj\Debug\net8.0\ContadorVocales.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Ejercicios\ContadorVocales\obj\Debug\net8.0\ContadorVocales.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Ejercicios\ContadorVocales\obj\Debug\net8.0\ContadorVocales.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Ejercicios\ContadorVocales\obj\Debug\net8.0\ContadorVocales.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Ejercicios\ContadorVocales\obj\Debug\net8.0\ContadorVocales.sourcelink.json
+C:\Users\Usuario\Programación\Udemy\C#\Ejercicios\ContadorVocales\obj\Debug\net8.0\ContadorVocales.dll
+C:\Users\Usuario\Programación\Udemy\C#\Ejercicios\ContadorVocales\obj\Debug\net8.0\refint\ContadorVocales.dll
+C:\Users\Usuario\Programación\Udemy\C#\Ejercicios\ContadorVocales\obj\Debug\net8.0\ContadorVocales.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Ejercicios\ContadorVocales\obj\Debug\net8.0\ContadorVocales.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Ejercicios\ContadorVocales\obj\Debug\net8.0\ref\ContadorVocales.dll
