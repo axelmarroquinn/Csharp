@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\Ejercicios",
-    "\\Ejercicios\\ContadorVocales",
-    "\\Seccion5\\IntroduccionMetodos"
+    "\\Ejercicios\\SumaDeDigitos"
   ],
-  "SelectedNode": "\\Ejercicios\\ContadorVocales\\ContadorVocales.cs",
+  "SelectedNode": "\\Ejercicios\\SumaDeDigitos\\SumaDeDigitos.cs",
   "PreviewInSolutionExplorer": false
 }
