@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E8D58148-25D2-454E-A602-00E04759DA4A}|Ejercicios\\SumaDeDigitos\\SumaDeDigitos.csproj|c:\\users\\usuario\\programaci\u00F3n\\udemy\\c#\\ejercicios\\sumadedigitos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E8D58148-25D2-454E-A602-00E04759DA4A}|Ejercicios\\SumaDeDigitos\\SumaDeDigitos.csproj|solutionrelative:ejercicios\\sumadedigitos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{072E802E-9494-4F4E-B27F-5C05D80D97BD}|Seccion5\\SinParametroNiTipo\\SinParametroNiTipo.csproj|c:\\users\\usuario\\programaci\u00F3n\\udemy\\c#\\seccion5\\sinparametronitipo\\sinparametronitipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{072E802E-9494-4F4E-B27F-5C05D80D97BD}|Seccion5\\SinParametroNiTipo\\SinParametroNiTipo.csproj|solutionrelative:seccion5\\sinparametronitipo\\sinparametronitipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,14 +27,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Ejercicios\\SumaDeDigitos\\Program.cs",
-              "RelativeDocumentMoniker": "Ejercicios\\SumaDeDigitos\\Program.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Ejercicios\\SumaDeDigitos\\Program.cs",
-              "RelativeToolTip": "Ejercicios\\SumaDeDigitos\\Program.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAswB0AAAAWAAAAAAAAAA==",
+              "Title": "SinParametroNiTipo.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion5\\SinParametroNiTipo\\SinParametroNiTipo.cs",
+              "RelativeDocumentMoniker": "Seccion5\\SinParametroNiTipo\\SinParametroNiTipo.cs",
+              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion5\\SinParametroNiTipo\\SinParametroNiTipo.cs",
+              "RelativeToolTip": "Seccion5\\SinParametroNiTipo\\SinParametroNiTipo.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAqwBwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-26T05:55:07.94Z",
+              "WhenOpened": "2025-06-28T17:21:45.888Z",
               "EditorCaption": ""
             }
           ]

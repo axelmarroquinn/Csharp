@@ -1,0 +1,15 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\SinParametroNiTipo\bin\Debug\net8.0\SinParametroNiTipo.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\SinParametroNiTipo\bin\Debug\net8.0\SinParametroNiTipo.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\SinParametroNiTipo\bin\Debug\net8.0\SinParametroNiTipo.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\SinParametroNiTipo\bin\Debug\net8.0\SinParametroNiTipo.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\SinParametroNiTipo\bin\Debug\net8.0\SinParametroNiTipo.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\SinParametroNiTipo\obj\Debug\net8.0\SinParametroNiTipo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\SinParametroNiTipo\obj\Debug\net8.0\SinParametroNiTipo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\SinParametroNiTipo\obj\Debug\net8.0\SinParametroNiTipo.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\SinParametroNiTipo\obj\Debug\net8.0\SinParametroNiTipo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\SinParametroNiTipo\obj\Debug\net8.0\SinParametroNiTipo.sourcelink.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\SinParametroNiTipo\obj\Debug\net8.0\SinParametroNiTipo.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\SinParametroNiTipo\obj\Debug\net8.0\refint\SinParametroNiTipo.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\SinParametroNiTipo\obj\Debug\net8.0\SinParametroNiTipo.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\SinParametroNiTipo\obj\Debug\net8.0\SinParametroNiTipo.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\SinParametroNiTipo\obj\Debug\net8.0\ref\SinParametroNiTipo.dll

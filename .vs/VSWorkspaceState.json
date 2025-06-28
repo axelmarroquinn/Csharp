@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Ejercicios",
-    "\\Ejercicios\\SumaDeDigitos"
+    "\\Seccion4\\Do",
+    "\\Seccion5",
+    "\\Seccion5\\SinParametroNiTipo"
   ],
-  "SelectedNode": "\\Ejercicios\\SumaDeDigitos\\SumaDeDigitos.cs",
+  "SelectedNode": "\\Seccion5\\SinParametroNiTipo\\SinParametroNiTipo.cs",
   "PreviewInSolutionExplorer": false
 }
