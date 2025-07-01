@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{072E802E-9494-4F4E-B27F-5C05D80D97BD}|Seccion5\\SinParametroNiTipo\\SinParametroNiTipo.csproj|c:\\users\\usuario\\programaci\u00F3n\\udemy\\c#\\seccion5\\sinparametronitipo\\sinparametronitipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{072E802E-9494-4F4E-B27F-5C05D80D97BD}|Seccion5\\SinParametroNiTipo\\SinParametroNiTipo.csproj|solutionrelative:seccion5\\sinparametronitipo\\sinparametronitipo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -23,19 +18,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "SinParametroNiTipo.cs",
-              "DocumentMoniker": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion5\\SinParametroNiTipo\\SinParametroNiTipo.cs",
-              "RelativeDocumentMoniker": "Seccion5\\SinParametroNiTipo\\SinParametroNiTipo.cs",
-              "ToolTip": "C:\\Users\\Usuario\\Programaci\u00F3n\\Udemy\\C#\\Seccion5\\SinParametroNiTipo\\SinParametroNiTipo.cs",
-              "RelativeToolTip": "Seccion5\\SinParametroNiTipo\\SinParametroNiTipo.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAqwBwAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-28T17:21:45.888Z",
-              "EditorCaption": ""
             }
           ]
         },

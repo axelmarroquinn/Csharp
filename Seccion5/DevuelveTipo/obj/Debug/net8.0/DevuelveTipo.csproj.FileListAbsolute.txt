@@ -1,0 +1,15 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\DevuelveTipo\bin\Debug\net8.0\DevuelveTipo.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\DevuelveTipo\bin\Debug\net8.0\DevuelveTipo.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\DevuelveTipo\bin\Debug\net8.0\DevuelveTipo.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\DevuelveTipo\bin\Debug\net8.0\DevuelveTipo.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\DevuelveTipo\bin\Debug\net8.0\DevuelveTipo.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\DevuelveTipo\obj\Debug\net8.0\DevuelveTipo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\DevuelveTipo\obj\Debug\net8.0\DevuelveTipo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\DevuelveTipo\obj\Debug\net8.0\DevuelveTipo.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\DevuelveTipo\obj\Debug\net8.0\DevuelveTipo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\DevuelveTipo\obj\Debug\net8.0\DevuelveTipo.sourcelink.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\DevuelveTipo\obj\Debug\net8.0\DevuelveTipo.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\DevuelveTipo\obj\Debug\net8.0\refint\DevuelveTipo.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\DevuelveTipo\obj\Debug\net8.0\DevuelveTipo.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\DevuelveTipo\obj\Debug\net8.0\DevuelveTipo.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\DevuelveTipo\obj\Debug\net8.0\ref\DevuelveTipo.dll

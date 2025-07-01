@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("SinParametroNiTipo")]
-[assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("DevuelveTipo")]
+[assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90330a260947d9d9ad4ae3639e4c5a055c2bc9a6")]
-[assembly: System.Reflection.AssemblyProductAttribute("SinParametroNiTipo")]
-[assembly: System.Reflection.AssemblyTitleAttribute("SinParametroNiTipo")]
+[assembly: System.Reflection.AssemblyProductAttribute("DevuelveTipo")]
+[assembly: System.Reflection.AssemblyTitleAttribute("DevuelveTipo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
