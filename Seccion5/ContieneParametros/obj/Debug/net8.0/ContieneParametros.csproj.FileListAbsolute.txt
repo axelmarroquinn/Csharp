@@ -1,0 +1,15 @@
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\ContieneParametros\bin\Debug\net8.0\ContieneParametros.exe
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\ContieneParametros\bin\Debug\net8.0\ContieneParametros.deps.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\ContieneParametros\bin\Debug\net8.0\ContieneParametros.runtimeconfig.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\ContieneParametros\bin\Debug\net8.0\ContieneParametros.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\ContieneParametros\bin\Debug\net8.0\ContieneParametros.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\ContieneParametros\obj\Debug\net8.0\ContieneParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\ContieneParametros\obj\Debug\net8.0\ContieneParametros.AssemblyInfoInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\ContieneParametros\obj\Debug\net8.0\ContieneParametros.AssemblyInfo.cs
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\ContieneParametros\obj\Debug\net8.0\ContieneParametros.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\ContieneParametros\obj\Debug\net8.0\ContieneParametros.sourcelink.json
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\ContieneParametros\obj\Debug\net8.0\ContieneParametros.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\ContieneParametros\obj\Debug\net8.0\refint\ContieneParametros.dll
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\ContieneParametros\obj\Debug\net8.0\ContieneParametros.pdb
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\ContieneParametros\obj\Debug\net8.0\ContieneParametros.genruntimeconfig.cache
+C:\Users\Usuario\Programación\Udemy\C#\Seccion5\ContieneParametros\obj\Debug\net8.0\ref\ContieneParametros.dll
